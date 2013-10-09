@@ -8,7 +8,6 @@ var canvas = document.getElementById('canvas'),
     spritesheet = new Image(),
     backgroundImg  = new Image(),
  
-    //dddd
     //Runner.............................................   
     
     runnerCellsRight = [
